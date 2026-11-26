@@ -1,16 +1,31 @@
-## Hi there 👋
+# Álvaro Sánchez (kyrdax)
 
-<!--
-**kyrdax/kyrdax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year Multiplatform Application Development student
 
-Here are some ideas to get you started:
+I'm a developer based in Spain, currently studying Multiplatform Application Development. Under the alias **kyrdax**, I build applications focused on simplicity, functionality and clean design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Education**
+
+- **Higher Technician in Multiplatform Application Development (DAM)** — IES San Alberto Magno (Expected graduation: 2027)
+
+**Featured Projects**
+
+- **[SiteHub](https://github.com/kyrdax/SiteHub)** — A minimalist cross-platform app for saving and launching websites, built with Kotlin and Compose Multiplatform.
+
+**Tech Stack**
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Kotlin, Java, SQL |
+| **Frameworks** | Compose Multiplatform, React Native |
+| **Platforms** | Android, Desktop |
+| **Databases** | SQLite |
+| **Tools** | Git, GitHub |
+
+---
+
+**Contact**
+
+contact@kyrdax.com
